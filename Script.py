@@ -11,7 +11,7 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    START_TXT = """<b>Hᴇʏ {} ɪᴍ 『 ᴍᴏᴠɪᴇs sᴇɴᴅᴇʀ ʙᴏᴛ 』 ᴀɴ Aᴡᴇsᴏᴍᴇ Aᴜᴛᴏ + Mᴀɴᴜᴀʟ sᴇɴᴅᴇʀ + Fɪʟᴇ Sʜᴀʀᴇ Bᴏᴛ.</b>
+    START_TXT = """<b>Hᴇʏ {} ɪᴍ 『 ᴍᴏᴠɪᴇs sᴇɴᴅᴇʀ ʙᴏᴛ 』 +  ᴍᴏᴠɪᴇ sᴇɴᴅᴇʀ ʙᴏᴛ + Fɪʟᴇ Sʜᴀʀᴇ Bᴏᴛ.</b>
     
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>"""
     HELP_TXT = """<b>𝙷𝙴𝚈 {}
